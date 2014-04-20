@@ -2,6 +2,8 @@
 
 Extract relevant body of text from HTML page content
 
+![Image](./textextractor.png?raw=true)
+
 ## Installation
 
 ``` bash
